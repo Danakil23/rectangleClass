@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1534172937 source:/home/nico/OneDrive/src/rectangleClass/rectangleClass/main.cpp
+	<iostream>
+	"rectangle.h"
+
+1534172979 /home/nico/OneDrive/src/rectangleClass/rectangleClass/rectangle.h
+
+1534172937 source:/home/nico/OneDrive/src/rectangleClass/rectangleClass/rectangle.cpp
+	<iostream>
+	"rectangle.h"
+
